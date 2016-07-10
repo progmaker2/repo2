@@ -24,6 +24,7 @@ public class HomeWorkStrings {
         return j;
     }
     //hello!!
+	//Hello after changin origin2 to origin3!
     /**
      * Метод должен удалить указанный символ из строки (кроме случая, если
      * символ находится на первой, последней или срединной позиции)
