@@ -25,7 +25,11 @@ public class HomeWorkStrings {
     }
     //hello!!
 	//Hello after changin origin2 to origin3!
+//<<<<<<< HEAD
 	//Master
+//=======
+	//Hello from branch2!
+//>>>>>>> branch2
     /**
      * Метод должен удалить указанный символ из строки (кроме случая, если
      * символ находится на первой, последней или срединной позиции)
